@@ -60,7 +60,7 @@
 }
 
 .services .box img{
-    height: 10rem;
+    height: 8rem;
     transition: all 1s ease-in-out;
   }
   .services .box:hover{
