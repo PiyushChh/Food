@@ -42,6 +42,7 @@
 /*Services*/
 .services{
     margin: 80px;
+    margin-top:40%;
 }
 .services{
     flex-direction: column;
