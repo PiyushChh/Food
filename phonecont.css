@@ -2,3 +2,32 @@
   margin:0;
   padding:0;
 }
+#card1 {
+     padding-left: 0rem;
+    font-size: 2rem;
+    text-align: center;
+}
+}
+#sub_btn .btn {
+    font-size: 20px;
+    width: 50%;
+    padding: 20px 12px;
+    margin: 0;
+    margin-bottom: 30px;
+    padding-left: 5px;
+    border: 2px solid white;
+}
+#card2 {
+    margin-left: 0;
+    display: block;
+    padding-right: 0rem;
+    margin: auto;
+}
+.card img {
+    height: 123px;
+}
+.contact_head h1 {
+   
+    text-align: center;
+    font-size: 3rem;
+}
