@@ -28,7 +28,7 @@
 }
 .homehead::before{
     
-    height:56%;
+    height:60%;
     
 }
 .homehead h1,p{
@@ -41,7 +41,7 @@
 }
 /*Services*/
 .services{
-    margin: 80px;
+    margin: 100px;
     margin-top:80%;
 }
 .services{
