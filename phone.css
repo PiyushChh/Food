@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+/*Navbar*/
+
+
+
+#navbar {
+    flex-direction: column;
+    
+}
+#navbar ul{
+    justify-content: center;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+/*Home*/
+.homehead{
+    height: 200px;
+    padding:3px 30px;
+    text-align: right;
+    
+}
+.homehead::before{
+    
+    height:37%;
+    
+}
+.homehead h1,p{
+    text-align: right;
+}
+.button_pr {
+    /* padding-top: 10px; */
+    padding-right: 10%;
+    text-align: right;
+}
+/*Services*/
+.services{
+    margin: 30px;
+}
+.services{
+    flex-direction: column;
+}
+#services{
+    flex-direction: column;
+}
+#services .box{
+    padding: 14px;
+    margin: 2px 20px; 
+    margin-bottom: 20px;
+    transition: all 1s ease-in-out;
+    
+  
+}
+
+.services .box img{
+    height: 10rem;
+    transition: all 1s ease-in-out;
+  }
+  .services .box:hover{
+    transform: scale(1);
+  }
+  .services .box img:hover{
+    transform: skew(0deg);
+  }
+/*Clients*/
+#clients{
+    flex-wrap: wrap;
+    background-color: black;
+    border-bottom: 2px solid white;
+}
+
+#clients img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+
+#foot{
+    margin-top: 1rem;
+    padding: 5px 5px;
+}
+#foot .parts{
+    margin-top: 70%;
+    font-size: 12px;
+     padding: 5px 5px;
+}
+footer{
+    font-size: 10px;
+}
